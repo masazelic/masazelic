@@ -16,7 +16,6 @@ Come take a look! 👀🚀
 
 ### BIO-501: Lab Immersion
 
-[Semester project](https://github.com/masazelic/Fine-tuning-MSA-Transformer) @ Laboratory of Computational Biology and Theoretical Biophysics (Bitbol lab). Worked on capturing phylogenetic relationships using transformer-based deep learning architecture (MSA Transformer) and synthetic protein multiple sequence alignments (MSA).  
-Built in `python` using `esm`, `PyTorch` and `peft` libraries and Cluster computing.
+[Semester project](https://github.com/masazelic/Fine-tuning-MSA-Transformer) @ Laboratory of Computational Biology and Theoretical Biophysics (Bitbol lab). Worked on capturing phylogenetic relationships using transformer-based deep learning architecture (MSA Transformer) and synthetic protein multiple sequence alignments (MSA). Built in `python` using `esm`, `PyTorch` and `peft` libraries and Cluster computing.
   
 
