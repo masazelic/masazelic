@@ -17,5 +17,10 @@ Come take a look! 👀🚀
 ### BIO-501: Lab Immersion
 
 [Semester project](https://github.com/masazelic/Fine-tuning-MSA-Transformer) @ Laboratory of Computational Biology and Theoretical Biophysics (Bitbol lab). Worked on capturing phylogenetic relationships using transformer-based deep learning architecture (MSA Transformer) and synthetic protein multiple sequence alignments (MSA). Built in `python` using `esm`, `PyTorch` and `peft` libraries and Cluster computing.
+
+### COM-490: Large Scale Data Science for Real-World Data
+
+* [Assignments](https://github.com/masazelic/lsds-assignments/tree/main) - Covering various data science techniques especially for handling large scale real-world data.
+* [Project](https://github.com/masazelic/SBBG) - `Python` based robust journey planner for the SBB (Swiss Federal Railways). The planner calculates the fastest routes between stops, providing a list of routes with confidence levels. **Project was graded with maximum grade of 6.**
   
 
