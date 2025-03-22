@@ -6,4 +6,8 @@ I completed my **BSc in Electrical Engineering and Computing** ⚡💻 @ Univers
 
 My GitHub page contains everything I've worked on during my **Master's at EPFL**, mainly cool projects and assignments that were part of my coursework.  
 
-Come take a look! 👀🚀
+Come take a look! 👀🚀  
+
+### CS:401 - Applied Data Analysis  
+
+
