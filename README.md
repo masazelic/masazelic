@@ -22,5 +22,12 @@ Come take a look! 👀🚀
 
 * [Assignments](https://github.com/masazelic/lsds-assignments/tree/main) - Covering various data science techniques especially for handling large scale real-world data.
 * [Project](https://github.com/masazelic/SBBG) - `Python` based robust journey planner for the SBB (Swiss Federal Railways). The planner calculates the fastest routes between stops, providing a list of routes with confidence levels. **Project was graded with maximum grade of 6.**
+
+### BIO-463: Genomics and Bioinformatics  
+
+[Repository](https://github.com/masazelic/genomics-bioinformatics/tree/main) contains two assigments and mini project.  
+First assignment contains scientific analysis in `R` on phylogenetic relationships and population genetics.  
+Second assignment contains scientific analysis in `R` on bulk RNA sequencing, alternative splicing and single-cell RNA sequecing data.
+Mini project contains reproduction of results from the paper [Gene Expression Profile on Human Mesenchymal Stromal Cells Exposed to Hypoxic and Pseudohypoxic Preconditioning - an Analysis by RNA Sequencing](https://pubmed.ncbi.nlm.nih.gov/34360925/) accompanied with report and the code. 
   
 
