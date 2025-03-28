@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Marija, a girl born and raised in **Belgrade, Serbia 🇷🇸**, who fell in love with the STEM field at the age of 10. Chasing my dreams led me all the way to **Lausanne, Switzerland 🇨🇭**, where I'm on adventure of gaining new knowledge and experiences!  
+I'm Marija, a girl born and raised in **Belgrade, Serbia 🇷🇸**, who fell in love with the STEM field at the age of 10. Chasing my dreams led me to **Lausanne, Switzerland 🇨🇭**, where I'm on adventure of gaining new knowledge and experiences!  
 
 I completed my **BSc in Electrical Engineering and Computing** ⚡💻 @ University of Belgrade, School of Electrical Engineering and I'm now studying towards **MSc in Life Sciences Engineering with Minor in Data Science** 🧬📊 @ EPFL. Currently, I'm mostly interested in ML/AI and its applications into biomedical field.
 
