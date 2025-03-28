@@ -32,7 +32,7 @@ Come take a look! 👀🚀
 
 ### CS-456: ANN/Reinforcement learning  
 
-
+[Repository](https://github.com/masazelic/annrl-project) contains the code for implementing DQN and Dyna Agents in Mountain Car enviroment as well as reproducing the results from the report.
 
 ### CS-433: Machine Learning  
 
