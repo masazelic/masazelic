@@ -28,13 +28,20 @@ Come take a look! 👀🚀
 [Repository](https://github.com/masazelic/genomics-bioinformatics/tree/main) contains two assigments and mini project.  
 **First assignment** contains scientific analysis in `R` on phylogenetic relationships and population genetics.  
 **Second assignment** contains scientific analysis in `R` on bulk RNA sequencing, alternative splicing and single-cell RNA sequecing data.  
-**Mini project** contains reproduction of results from the paper [Gene Expression Profile on Human Mesenchymal Stromal Cells Exposed to Hypoxic and Pseudohypoxic Preconditioning - an Analysis by RNA Sequencing](https://pubmed.ncbi.nlm.nih.gov/34360925/) accompanied with report and the code in `R`.  
+**Mini project** contains reproduction of results from the paper [Gene Expression Profile on Human Mesenchymal Stromal Cells Exposed to Hypoxic and Pseudohypoxic Preconditioning - an Analysis by RNA Sequencing](https://pubmed.ncbi.nlm.nih.gov/34360925/) accompanied with report and the code in `R`. 
+
+### CS-456: ANN/Reinforcement learning  
+
+
 
 ### CS-433: Machine Learning  
 
 [ML4Science project](https://github.com/masazelic/ml-project-2-girl-mse) done in collaboration with Laboratory of the Physics of Biological System (LPBS) explores for mutants with enhanced protein fitness using `AlphaFold cluster`, `AlphaFold`, `XGBoost`, and `BERT`. Check out project pipeline in the repository.
 
 ### CS-502: Deep Learning in Biomedicine  
+
+* [Assignments](https://github.com/masazelic/dlb_assignments) - Covering various deep learning concepts, from simple neural networks to GNNs and transformers.
+* [Project](https://github.com/masazelic/CS502-Project) - Extending few-shot learning benchmark with RelationNet model. 
 
 
 
